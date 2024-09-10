@@ -60,8 +60,8 @@ Bem-vindo ao meu perfil GitHub! Aqui você pode encontrar um pouco mais sobre mi
 <a href="https://github.com/wilian-wagner"><img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="DBeaver" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/78d38cc1-71e7-420c-8444-0d72fdc61de6" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="MySQL Workbench" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/00937462-60ee-4038-be60-eb16d2aee83e" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="DBeaver" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/78d38cc1-71e7-420c-8444-0d72fdc61de6" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="MySQL Workbench" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/00937462-60ee-4038-be60-eb16d2aee83e" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/></a>
 
 ```python
@@ -73,13 +73,12 @@ Bem-vindo ao meu perfil GitHub! Aqui você pode encontrar um pouco mais sobre mi
 <a href="https://github.com/wilian-wagner"><img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Pandas" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/01b05fb5-a188-409b-a0b7-e81599f4b406" width="45" height="45"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Matplotlib" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/d359fe82-a8a6-463f-b0e5-9bfbae393325" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Pandas" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/01b05fb5-a188-409b-a0b7-e81599f4b406" width="45" height="45"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Matplotlib" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d359fe82-a8a6-463f-b0e5-9bfbae393325" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="Tkinter" src="https://images.pling.com/cache/400x400/img/00/00/50/02/87/1605815/9bf34dd00f27afcbafcee4aaa15213c075e34504e530f45b876be487ce5f5dfea8b7.png" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="Qt" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="45" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="PyQt" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/7b96158e-2b12-484c-8050-aedff5679835" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="KivyMD" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/bed08266-3db6-42ba-a554-2a6bc137d1f3" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="PyQt" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/7b96158e-2b12-484c-8050-aedff5679835" width="40" height="40"/></a>
 
 ```python
 🠊 IDEs | Versioning | CI/CD | Containerization | IaC | Cloud Platforms | Event-Driven | APIs
@@ -94,9 +93,9 @@ Bem-vindo ao meu perfil GitHub! Aqui você pode encontrar um pouco mais sobre mi
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/pt-br/"><img alt="Microsoft Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/pt-br/products/functions"><img alt="Azure Functions" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/a61432d2-fe16-424e-b252-4a12a5f59057" width="42" height="45"/></a>
-<a href="https://swagger.io/"><img alt="Swagger API" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
-<a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/ace89ff5-95de-4d50-a6d7-1e341381b1d9" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/pt-br/products/functions"><img alt="Azure Functions" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/a61432d2-fe16-424e-b252-4a12a5f59057" width="42" height="45"/></a>
+<a href="https://swagger.io/"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
+<a href="https://discordpy.readthedocs.io/en/stable/"><img alt="Discord.py" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/ace89ff5-95de-4d50-a6d7-1e341381b1d9" width="40" height="40"/></a>
 
 ```python
 🠊 Tools | Productivity | Business Intelligence | Civil Engineering
@@ -104,11 +103,11 @@ Bem-vindo ao meu perfil GitHub! Aqui você pode encontrar um pouco mais sobre mi
 
 <a href="https://github.com/wilian-wagner"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Notion" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/720e086d-89e8-4154-b169-08683763ecce" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Notion" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/720e086d-89e8-4154-b169-08683763ecce" width="40" height="40"/></a>
 <a href="https://github.com/wilian-wagner"><img alt="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Discord" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/b20faba1-9524-489a-8125-6372efb56252" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Agile" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/16bbb893-07a4-4317-8949-6c28ba147ea0" width="40" height="40"/></a>
-<a href="https://github.com/wilian-wagner"><img alt="Kanban" src="https://github.com/wilian-wagner/wilian-wagner/assets/75655706/c81a8550-cabb-47d9-b409-84fb91ff91f8" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Discord" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/b20faba1-9524-489a-8125-6372efb56252" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Agile" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/16bbb893-07a4-4317-8949-6c28ba147ea0" width="40" height="40"/></a>
+<a href="https://github.com/wilian-wagner"><img alt="Kanban" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/c81a8550-cabb-47d9-b409-84fb91ff91f8" width="40" height="40"/></a>
 
 </p>
 
